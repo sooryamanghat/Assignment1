@@ -1,3 +1,6 @@
 Hi,
 
 This is just a text project file.
+
+
+This is from text child branch.
